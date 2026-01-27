@@ -1,0 +1,1 @@
+# koishi-adapter-qq-test
