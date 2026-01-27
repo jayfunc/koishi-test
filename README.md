@@ -1,1 +1,1 @@
-# koishi-adapter-qq-test
+# koishi-test
